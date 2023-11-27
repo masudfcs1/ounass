@@ -1,4 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
@@ -6,13 +5,8 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
+https://github.com/masudfcs1/ounass/assets/57311382/f6194af1-163b-4ea7-b488-41f810fd50d3
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
