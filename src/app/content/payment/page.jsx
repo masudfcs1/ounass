@@ -3,7 +3,7 @@ import React from "react";
 const Payment = () => {
   return (
     <div className=" font-sans md:p-5 p-4 max-w-[1200px] mx-auto my-[50px] md:my-[80px]">
-      <p className=" uppercase">Payment</p> <br />
+      <p className=" text-xl uppercase">Payment</p> <br />
       <p>Making a payment with Ounass couldn’t be simpler.</p>
       <br />
       <p>
