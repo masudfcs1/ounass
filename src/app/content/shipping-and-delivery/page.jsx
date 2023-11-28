@@ -124,7 +124,7 @@ const shippinganddelivery = () => {
         your order by contacting the customer care team from 10am-10pm on our
         UAE toll free number{" "}
         <a
-          href="https://api.whatsapp.com/send?phone=15551234567"
+          href="https://api.whatsapp.com/send?phone=800686277"
           className=" underline"
         >
           800686277
